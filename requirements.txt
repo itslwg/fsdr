@@ -1,0 +1,12 @@
+plotnine
+tqdm
+seaborn
+matplotlib
+pandas==1.2.0
+numpy==1.19.4
+skorch==0.9.0
+tqdm==4.55.0
+imbalanced_learn==0.7.0
+torch==1.7.1
+imblearn==0.0
+scikit_learn==0.24.0
